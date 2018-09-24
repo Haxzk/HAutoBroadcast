@@ -1,0 +1,15 @@
+schema-version: 1
+# Este foi o meu primeiro plugin feito em Kotlin #
+# Reporte qualquer bug a mim pelo meu discord, Haxzk#2388 #
+
+# Tempo em segundos
+Tempo: 30
+Mensagens:
+  '1':
+    # Tipos:
+    # 1 - Chat
+    # 2 - ActionBar
+    Tipo: 1
+    Mensagem: "&aMensagem Padrão! Isso pode ser alterado na configuração."
+
+FormatoComando: "§e§l[BROADCAST] §r{mensagem}"

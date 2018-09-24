@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HAutoBroaadcast">
+    <output-path>$USER_HOME$/Desktop/Servidor/plugins</output-path>
+    <root id="archive" name="HAutoBroaadcast.jar">
+      <element id="module-output" name="HAutoBroadcast" />
+      <element id="library" level="project" name="KotlinJavaRuntime" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/config.yml" />
+    </root>
+  </artifact>
+</component>
